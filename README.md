@@ -8,3 +8,20 @@ Consigli del giorno:
 scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
+
+
+mi serve:
+numeri (da 1 a 100)
+multipli di 3 (Fizz)
+multipli di 5 (Buzz)
+multipli sia di 3 che di 5 (FizzBuzz)
+
+Definire le variabili
+numeri (da 1 a 100)
+multipli di 3 (Fizz)
+multipli di 5 (Buzz)
+multipli sia di 3 che di 5 (FizzBuzz)
+
+Se sono multipli di 3 stampare Fizz
+Se sono multipli di 5 stampare Buzz
+se sono multipli sia di 3 che di 5 stampare FizzBuzz
